@@ -57,7 +57,7 @@ NOTE: If you are intending to use a [reverse proxy](https://github.com/Tzahi1234
 
 3. Port forward the port listed in `default.json`, which defaults to `17442`.
 
-4. Once the configuration is done, run `npm install` to install all the backend dependencies. Once that is finished, type `npm start`. This will run the backend server, which serves the frontend as well. On your browser, navigate to to the server (url with the specified port). Try putting in a youtube link to see if it works. If it does, viola! YoutubeDL-Material is now up and running.
+4. Once the configuration is done, run `npm install` to install all the backend dependencies. Once that is finished, type `npm start`. This will run the backend server, which serves the frontend as well. On your browser, navigate to to the server (url with the specified port). Try putting in a youtube link to see if it works. If it does, voila! YoutubeDL-Material is now up and running.
 
 If you experience problems, know that it's usually caused by a configuration problem. The first thing you should do is check the console. To get there, right click anywhere on the page and click "Inspect element." Then on the menu that pops up, click console. Look at the error there, and try to investigate.
 
